@@ -143,9 +143,9 @@ public class Game {
                         .cursorRight(12)
                         .a("┌─────────┐").cursorDown(1).cursorLeft(11)
                         .a("│░░░░░░░░░│").cursorDown(1).cursorLeft(11)
-                        .a("│░ J I T ░│").cursorDown(1).cursorLeft(11)
-                        .a("│░ T E R ░│").cursorDown(1).cursorLeft(11)
-                        .a("│░ T E D ░│").cursorDown(1).cursorLeft(11)
+                        .a("│░ I N T ░│").cursorDown(1).cursorLeft(11)
+                        .a("│░ U I T ░│").cursorDown(1).cursorLeft(11)
+                        .a("│░       ░│").cursorDown(1).cursorLeft(11)
                         .a("│░░░░░░░░░│").cursorDown(1).cursorLeft(11)
                         .a("└─────────┘"));
     }
